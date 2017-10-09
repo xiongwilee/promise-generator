@@ -2,7 +2,7 @@
 
 简单可依赖的Promise 顺序执行（串行执行）器。
 
-[![Build Status](https://travis-ci.org/xiongwilee/promise-generator.svg?branch=master)](https://travis-ci.org/xiongwilee/promise-generator)  [![npm version](https://img.shields.io/npm/v/promise-generator.svg?style=flat-square)](https://npmjs.org/package/promise-generator) [![download](https://img.shields.io/npm/dm/promise-generator.svg?style=flat-square)](https://npmjs.org/package/promise-generator)
+[![Build Status](https://travis-ci.org/xiongwilee/promise-generator.svg?branch=master)](https://travis-ci.org/xiongwilee/promise-generator)  [![npm version](https://img.shields.io/npm/v/promise-generator.svg?style=flat)](https://npmjs.org/package/promise-generator) [![download](https://img.shields.io/npm/dm/promise-generator.svg?style=flat)](https://npmjs.org/package/promise-generator)
 
 ## 安装
 
